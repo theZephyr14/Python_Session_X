@@ -1,4 +1,4 @@
-Hello!
+Hello there!
 
 Welcome to week_2.
 
